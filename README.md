@@ -47,6 +47,7 @@ The project reports recall (cracked), precision, F1, PR-AUC and a confusion matr
 - [ ] 4. Web app for crack detection, deployed free
 - [ ] 5. Literature review paper (preprint)
 - [ ] 6. LinkedIn launch post
+- [ ] 4b. LLM layer: inspection-note generator from CNN findings, RAG Q&A over bridge inspection manuals, optional CNN vs. vision-LLM benchmark
 
 ## Citation (dataset)
 Dorafshan, S., Thomas, R. J., & Maguire, M. (2018). SDNET2018: An annotated image dataset for non-contact concrete crack detection using deep convolutional neural networks. *Data in Brief*, 21, 1664–1668.
